@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=live-installer
+Name[tr]=Pasiron Linux Yükleyiver
+Comment[tr]=Bu sistemi kalıcı olarak sabit diskinize kurun
+Comment=Install this system permanently to your hard disk
+Exec=/usr/bin/live-installer
+Icon=/usr/lib/live-installer/icons/live-installer.png
+Terminal=false
+Categories=GTK;System;Settings;
+X-Ayatana-Appmenu-Show-Stubs=False
+Name[C]=live-installer.desktop
